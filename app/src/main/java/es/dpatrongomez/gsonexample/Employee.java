@@ -9,11 +9,14 @@ public class Employee {
     private int mAge;
     @SerializedName("mail")
     private String mMail;
+    @SerializedName("address")
+    private Address mAddress;
 
-    public Employee(String firstName, int age, String mail) {
+    public Employee(String firstName, int age, String mail, Address address)  {
         mFirstName = firstName;
         mAge = age;
         mMail = mail;
+        mAddress = address;
 
     }
 }

@@ -1,5 +1,9 @@
 {
-  "first_name":"Daniel",
-  "age":20,
-  "mail":"dpatrongomez@gmail.com"
+  "address": {
+    "city": "Guadalajara",
+    "country": "Spain"
+  },
+  "age": 20,
+  "first_name": "Daniel",
+  "mail": "dpatrongomez@gmail.com"
 }
