@@ -4,6 +4,17 @@
     "country": "Spain"
   },
   "age": 20,
+  "family": [
+    {
+      "age": 30,
+      "role": "Wife"
+    },
+    {
+      "age": 5,
+      "role": "Daughter"
+    }
+  ],
   "first_name": "Daniel",
   "mail": "dpatrongomez@gmail.com"
 }
+
